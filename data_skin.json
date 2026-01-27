@@ -1,45 +1,13 @@
 {
-  "app_version": "1.5",
-  "maintenance_mode": false,
-  "notice_msg": "Server aman. Gunakan akun smurf untuk tes.",
-  "heroes": [
+  "hero_id": "gs_01",
+  "name": "GUSION",
+  "skins": [
     {
-      "id": "hero_001",
-      "name": "GUSION",
-      "role": "ASSASSIN",
-      "skins": [
-        {
-          "skin_name": "Moonlight Sonata",
-          "rarity_label": "NORMAL",
-          "rarity_color": "#FFFFFF", 
-          "script_url": "https://link-download-script.com/gusion_normal.zip"
-        },
-        {
-          "skin_name": "V.E.N.O.M",
-          "rarity_label": "EPIC",
-          "rarity_color": "#00FF00",
-          "script_url": "https://link-download-script.com/gusion_venom.zip"
-        },
-        {
-          "skin_name": "K'",
-          "rarity_label": "KOF",
-          "rarity_color": "#800080",
-          "script_url": "https://link-download-script.com/gusion_kof.zip"
-        }
-      ]
-    },
-    {
-      "id": "hero_002",
-      "name": "CHOU",
-      "role": "FIGHTER",
-      "skins": [
-        {
-          "skin_name": "Iori Yagami",
-          "rarity_label": "KOF",
-          "rarity_color": "#800080",
-          "script_url": "https://link-download-script.com/chou_kof.zip"
-        }
-      ]
+      "skin_name": "Cosmic Gleam",
+      "rarity": "LEGEND",
+      "ui_color": "#E5E4E2",
+      "zip_url": "https://raw.githubusercontent.com/.../gs_legend.zip",
+      "target_path": "dragon2017/assets/unity3d/android/" 
     }
   ]
 }

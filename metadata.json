@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "lastUpdate": "2023-10-28 14:00",
+  "heroes": [
+    {
+      "id": "hero_01","name": "Gusion",
+      "iconUrl": "",
+      "skins": [
+        {
+          "id": "skin_gs_01",
+          "name": "V.E.N.O.M. Emperor Scorpion",
+          "author": "NYX Team",
+          "size": "4.5 MB",
+          "imageUrl": "",
+          "downloadUrl": "https://raw.githubusercontent.com/user/repo/main/assets/gs_venom.skin",
+          "version": 1,
+          "checksum": "isi_dengan_hash_file_disini",
+          "changelog": "Update efek skill 2",
+          "compatibility": "All Versions"
+        }
+      ]
+    }
+  ]
+}

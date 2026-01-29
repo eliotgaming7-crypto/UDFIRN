@@ -8,9 +8,9 @@
       "skins": [
         {
           "id": "skin_gs_01",
-          "name": "V.E.N.O.M. Emperor Scorpion",
+          "name": "K.O.F Kng Of Fight",
           "author": "NYX Team",
-          "size": "4.5 MB",
+          "size": "11.20 MB",
           "imageUrl": "",
           "downloadUrl": "https://raw.githubusercontent.com/user/repo/main/assets/gs_venom.skin",
           "version": 1,
@@ -22,3 +22,4 @@
     }
   ]
 }
+
